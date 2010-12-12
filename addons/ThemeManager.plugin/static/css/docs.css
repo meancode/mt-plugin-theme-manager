@@ -1,5 +1,8 @@
 #docs-tab-content {
-  padding-top: 20px;
+  padding-top: 0px;
+}
+#docs-tab-content span {
+  background-color:#FF9;
 }
 #docs-tab-content h1 {
   font-size: 24px;
@@ -11,6 +14,7 @@
 }
 #docs-tab-content h3 {
   font-size: 18px;
+  margin-top: 3px;
 }
 #docs-tab-content h4 {
   font-size: 16px;
